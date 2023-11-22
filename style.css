@@ -39,12 +39,12 @@ a {
     margin-top: 10px;
     width: 41px;
     height: 21px;
-    font-size: 14px; /* Rozmiar czcionki */
-    font-weight: 500; /* Grubość czcionki (font-medium) */
-    font-family: Inter; /* Rodzina czcionek */
-    line-height: 21px; /* Wysokość linii */
-    letter-spacing: 0em; /* Odstęp między literami */
-    text-align: left; /* Wyrównanie tekstu do lewej */
+    font-size: 14px; 
+    font-weight: 500; 
+    font-family: Inter; 
+    line-height: 21px; 
+    letter-spacing: 0em; 
+    text-align: left; 
     color: white;
 }
 .primary {
@@ -52,8 +52,8 @@ a {
     color: white;
 }
 .hero {
-  width: 1440px; /* Szerokość ustalona na 1440 pikseli */
-  height: 626px; /* Wysokość 626 pikseli */
+  width: 1440px; 
+  height: 626px; 
   background-color: #111928;
 }
 .container {
@@ -73,21 +73,21 @@ width: 576px;
 height: 206px;
 }
 .heading {
-    font-family: Inter; /* Rodzina czcionek */
-  font-size: 48px; /* Rozmiar czcionki */
-  font-weight: 800; /* Grubość czcionki (font-extrabold) */
-  line-height: 48px; /* Wysokość linii (leading-none) */
-  letter-spacing: 0; /* Odstęp między literami */
-  text-align: left; /* Wyrównanie tekstu do lewej */
+    font-family: Inter; 
+  font-size: 48px; 
+  font-weight: 800; 
+  line-height: 48px; 
+  letter-spacing: 0; 
+  text-align: left; 
   color: white;
 }
 .supportingtext {
-    font-family: Inter; /* Rodzina czcionek */
-  font-size: 20px; /* Rozmiar czcionki */
-  font-weight: 400; /* Grubość czcionki (font-normal) */
-  line-height: 30px; /* Wysokość linii */
-  letter-spacing: 0em; /* Odstęp między literami */
-  text-align: left; /* Wyrównanie tekstu do lewej */
+    font-family: Inter; 
+  font-size: 20px; 
+  font-weight: 400; 
+  line-height: 30px; 
+  letter-spacing: 0em; 
+  text-align: left; 
   color: #9CA3AF;
   margin-top: 20px;
 }
@@ -98,20 +98,20 @@ height: 206px;
     margin-top:32px;
 }
 .donatebutton {
-    width: 182px; /* Szerokość ustalona na 182 piksele */
-  height: 48px; /* Wysokość 48 pikseli */
-  padding: 12px 20px; /* Odstęp wewnętrzny: 12 pikseli od góry i dołu, 20 pikseli od prawej i lewej */
-  border-radius: 8px; /* Zaokrąglenie narożników */
+    width: 182px; 
+  height: 48px; 
+  padding: 12px 20px; 
+  border-radius: 8px; 
   gap: 8px; 
   background-color: #1A56DB;
   color: white;
 }
 .learnbutton {
-    width: 182px; /* Szerokość ustalona na 182 piksele */
-  height: 48px; /* Wysokość 48 pikseli */
-  padding: 12px 20px; /* Odstęp wewnętrzny: 12 pikseli od góry i dołu, 20 pikseli od prawej i lewej */
-  border-radius: 8px; /* Zaokrąglenie narożników */
-  border: 1px solid; /* Grubość obramowania i rodzaj (np. solid, dashed, dotted) */
+    width: 182px; 
+  height: 48px; 
+  padding: 12px 20px; 
+  border-radius: 8px; 
+  border: 1px solid; 
   gap: 8px; 
   color: #6c7582;
   background-color: #1F2A37;
@@ -119,21 +119,21 @@ height: 206px;
   margin-left: 16px;
 }
 .sponsors {
-    width: 576px; /* Szerokość ustalona na 576 pikseli */
-    height: 116px; /* Wysokość 116 pikseli */
-    padding: 32px 0 0 0; /* Odstęp wewnętrzny: 32 piksele od góry, 0 od prawej, 0 od dołu, 0 od lewej */
+    width: 576px; 
+    height: 116px; 
+    padding: 32px 0 0 0; 
     border-top: 1px solid #6c7582;
     margin-top: 32px;
 }
 .supportingsponsors {
     width: 576px;
     height: 24px;
-    font-family: Inter; /* Rodzina czcionek */
-    font-size: 16px; /* Rozmiar czcionki */
-    font-weight: 500; /* Grubość czcionki (font-medium) */
-    line-height: 24px; /* Wysokość linii */
-    letter-spacing: 0em; /* Odstęp między literami */
-    text-align: left; /* Wyrównanie tekstu do lewej */
+    font-family: Inter; 
+    font-size: 16px; 
+    font-weight: 500; 
+    line-height: 24px; 
+    letter-spacing: 0em; 
+    text-align: left; 
     color: #6B7280;
 
 }
@@ -194,48 +194,48 @@ height: 206px;
 .headingstat {
     width: 248px;
     height: 45px;
-    font-family: Inter; /* Rodzina czcionek */
-    font-size: 36px; /* Rozmiar czcionki */
-    font-weight: 800; /* Grubość czcionki (font-extrabold) */
-    line-height: 45px; /* Wysokość linii (leading-tight) */
-    letter-spacing: -0.01em; /* Odstęp między literami */
-    text-align: center; /* Wyrównanie tekstu do środka */
+    font-family: Inter; 
+    font-size: 36px; 
+    font-weight: 800; 
+    line-height: 45px; 
+    letter-spacing: -0.01em; 
+    text-align: center; 
     color: white;
 }
 .supportingstat {
     width: 248px;
     height: 24px;
-    font-family: Inter; /* Rodzina czcionek */
-    font-size: 16px; /* Rozmiar czcionki */
-    font-weight: 400; /* Grubość czcionki (font-normal) */
-    line-height: 24px; /* Wysokość linii */
-    letter-spacing: 0em; /* Odstęp między literami */
-    text-align: center; /* Wyrównanie tekstu do środka */
+    font-family: Inter; 
+    font-size: 16px; 
+    font-weight: 400; 
+    line-height: 24px; 
+    letter-spacing: 0em; 
+    text-align: center; 
     color: #9CA3AF;
 }
 .cta2 {
     display: flex;
     justify-content: space-around;
-  width: 1440px; /* Szerokość diva */
-  height: 1444.34px; /* Wysokość diva */
-  padding: 0px 0px 96px 0px; /* Wartości padding: top, right, bottom, left */
-  border: 1px; /* Grubość i kolor obramowania diva */
-  gap: 10px; /* Odl*/
+  width: 1440px; 
+  height: 1444.34px; 
+  padding: 0px 0px 96px 0px; 
+  border: 1px; 
+  gap: 10px; 
   background-color: #111928;
 }
 .container3 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 1280px; /* Szerokość diva */
-  height: 1348.34px; /* Wysokość diva */
-  gap: 64px; /* Odległoś*/
+    width: 1280px; 
+  height: 1348.34px; 
+  gap: 64px; 
 }
 .row2 {
     display: flex;
-    width: 1280px; /* Szerokość diva */
-    height: 406.78px; /* Wysokość diva */
-    gap: 80px; /* Odległo*/
+    width: 1280px; 
+    height: 406.78px; 
+    gap: 80px; 
 }
 .rightContent {
     display:flex;
@@ -281,8 +281,8 @@ height: 206px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #1A56DB; /* Kolor tła */
-    color: #ffffff; /* Kolor tekstu */
+    background-color: #1A56DB; 
+    color: #ffffff; 
     font-family: Inter;
     font-size: 14px;
     font-weight: 500;
@@ -291,16 +291,16 @@ height: 206px;
     text-align: left;
     border: none;
     cursor: pointer;
-    justify-content: space-between; /* Odstęp między tekstem a ikoną */
+    justify-content: space-between; 
 }
 .buttonArrow1:hover {
-    background: #004080; /* Kolor tła po najechaniu kursorem */
+    background: #004080; 
   }
   .buttonArrow2:hover {
-    background: #004080; /* Kolor tła po najechaniu kursorem */
+    background: #004080; 
   }
   .buttonArrow3:hover {
-    background: #004080; /* Kolor tła po najechaniu kursorem */
+    background: #004080; 
   }
   .buttonArrow2 {
     width: 184px;
@@ -311,8 +311,8 @@ height: 206px;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #1A56DB; /* Kolor tła */
-  color: #ffffff; /* Kolor tekstu */
+  background-color: #1A56DB; 
+  color: #ffffff; 
   font-family: Inter;
   font-size: 14px;
   font-weight: 500;
@@ -331,8 +331,8 @@ height: 206px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #1A56DB; /* Kolor tła */
-    color: #ffffff; /* Kolor tekstu */
+    background-color: #1A56DB; 
+    color: #ffffff; 
     font-family: Inter;
     font-size: 14px;
     font-weight: 500;
@@ -349,7 +349,7 @@ height: 206px;
   height: 41px;
   padding: 10px 20px;
   border-radius: 8px;
-  border: 1px solid #4B5563; /* Grubość i kolor obramowania */
+  border: 1px solid #4B5563; 
   gap: 8px;
   font-family: Inter;
   font-size: 14px;
@@ -357,12 +357,12 @@ height: 206px;
   line-height: 21px;
   letter-spacing: 0em;
   text-align: left;
-  align-items: center; /* Wyrównanie tekstu i ikony w pionie */
-  justify-content: space-between; /* Odstęp między tekstem a ikoną */
+  align-items: center; 
+  justify-content: space-between; 
 }
 .buttonSupporting:hover {
-    background: linear-gradient(0deg, #1F2A37, #1F2A37); /* Kolor tła po najechaniu kursorem */
-  color: #4B5563; /* Kolor tekstu po najechaniu kursorem */
+    background: linear-gradient(0deg, #1F2A37, #1F2A37); 
+  color: #4B5563; 
 }
 .customersLogos {
     display: flex;
@@ -481,16 +481,15 @@ height: 206px;
   height: 34px;
   padding: 8px 12px;
   border-radius: 8px;
-  border: 1px solid #4B5563; /* Dodaj konkretny kolor lub usuń, aby użyć koloru domyślnego */
+  border: 1px solid #4B5563; 
   box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 8px;
-  /* Dodatkowe stylizacje według potrzeb */
 
-  /* Stylizacja koloru tła w zależności od wymaganego koloru */
-  background-color: #1F2A37; /* Kolor "Alternative Dark" */
+ 
+  background-color: #1F2A37; 
   color: #9CA3AF;
   font-family: Inter;
   font-size: 12px;
@@ -551,7 +550,7 @@ height: 206px;
 }
 .cards-fund {
     display: flex;
-  width: 1280px; /* Maksymalna szerokość 1,280px */
+  width: 1280px; 
   height: 593px;
   gap: 48px;
 }
@@ -561,7 +560,7 @@ height: 206px;
   height: 593px;
   padding: 32px;
   border-radius: 8px;
-  border: 1px solid #374151; /* Kolor obramowania */
+  border: 1px solid #374151; 
   gap: 16px;
   background: linear-gradient(0deg, #1F2A37, #1F2A37), linear-gradient(0deg, #374151, #374151);
 }
@@ -571,14 +570,14 @@ height: 206px;
     border-radius: 8px;
 }
 .progress-bar-fund {
-    width: 100%; /* Fill (552px) - ustawiamy na 100%, co oznacza pełną szerokość */
-  max-width: 552px; /* Maksymalna szerokość 552px */
+    width: 100%; 
+  max-width: 552px; 
   height: 41px;
   gap: 4px;
 }
 .progress-bar-label {
-    width: 100%; /* Fill (552px) - ustawiamy na 100%, co oznacza pełną szerokość */
-    max-width: 552px; /* Maksymalna szerokość 552px */
+    width: 100%; 
+    max-width: 552px; 
     height: 27px;
     display: flex;
     justify-content: space-between;
